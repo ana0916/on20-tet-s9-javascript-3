@@ -5,6 +5,8 @@
 - Explicação do projeto: Devemos criar uma página (usando HTML e CSS) e popular os campos corretamente com os dados com os dados do arquivo data.json ou do objeto JSON usando JavaScript, o objeto já está no arquivo script.js com todos os detalhes sobre no desafio;
 ---
 
+repeticao loop ou fazer varias vezes
+
 Terminou o projetinho? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
 
 - [ ] Fiz o fork do repositório.
